@@ -1,0 +1,8 @@
+.bash_logout
+.bashrc
+.config/
+.ipynb_checkpoints/
+.ipython/
+.jupyter-server-log.txt
+.local/
+.profile
